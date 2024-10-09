@@ -1,0 +1,2 @@
+Prefix plugins/DeterminePhred/example/
+Plugin DeterminePhred inputfile S12_R1.fastq outputfile none
